@@ -32,7 +32,7 @@
 
 ```bash
 # 1. Clonar repositorio
-git clone https://github.com/lolcragamer/organizador-archivos.git
+git clone https://github.com/Cibersecurity-Analyst/organizador-archivos.git
 cd organizador-archivos
 
 # 2. Instalar dependencias
