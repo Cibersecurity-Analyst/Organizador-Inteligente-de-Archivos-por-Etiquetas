@@ -12,7 +12,7 @@
 **Organiza tus archivos con etiquetas jerárquicas automáticamente**
 
 [📥 DESCARGAR AHORA](#-descargas) • 
-[🐛 REPORTAR ERROR](https://github.com/lolcragamer/Organizador-Inteligente-de-Archivos-por-Etiquetas/issues)
+[🐛 REPORTAR ERROR](https://github.com/Cibersecurity-Analyst/Organizador-Inteligente-de-Archivos-por-Etiquetas/issues)
 
 </div>
 
@@ -24,15 +24,15 @@
 
 | Versión | Enlace | Tamaño |
 |---------|--------|--------|
-| **Última versión** | [⬇️ Descargar OrganizadorArchivos.exe](https://github.com/lolcragamer/Organizador-Inteligente-de-Archivos-por-Etiquetas/releases/download/v1.0.0/OrganizadorArchivos.exe) | ~45MB |
+| **Última versión** | [⬇️ Descargar OrganizadorArchivos.exe](https://github.com/Cibersecurity-Analyst/Organizador-Inteligente-de-Archivos-por-Etiquetas/releases/download/v1.0.0/OrganizadorArchivos.exe) | ~45MB |
 
-> ⚠️ **Nota:** Si el antivirus lo bloquea, es un falso positivo. Es de codigo abierto asi que [Puedes Revisarlo](https://github.com/lolcragamer/Organizador-Inteligente-de-Archivos-por-Etiquetas/blob/main/organizador_pyside.py)
+> ⚠️ **Nota:** Si el antivirus lo bloquea, es un falso positivo. Es de codigo abierto asi que [Puedes Revisarlo](https://github.com/\Cibersecurity-Analyst/Organizador-Inteligente-de-Archivos-por-Etiquetas/blob/main/organizador_pyside.py)
 
 ### 🐧 Linux / 🍎 macOS / 🪟 Windows (Código fuente)
 
 ```bash
 # 1. Clonar repositorio
-git clone https://github.com/lolcragamer/organizador-archivos.git
+git clone https://github.com/Cibersecurity-Analyst/Organizador-Inteligente-de-Archivos-por-Etiquetas
 cd organizador-archivos
 
 # 2. Instalar dependencias
